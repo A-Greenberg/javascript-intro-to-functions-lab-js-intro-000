@@ -14,6 +14,10 @@ function logWhisper(string) {
 
 }
 
+function sayHiToGrandma(string) {
+
+}
+
 /*
 shout(string)
   1) receives one argument and returns it in all caps
